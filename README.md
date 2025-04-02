@@ -1,7 +1,7 @@
 ## Hi there，Guten Tag，你好！ 👋
 
-- 🔭 I’m currently working on **planning my future**
-- 🌱 I’m currently learning **compile theory, machine learning**
+- 🔭 I’m currently researching **ai safety**
+- 🌱 I’m currently learning **software engineering, machine learning**
 - 📫 How to reach me: 22373337@buaa.edu.cn
 - 😄 Pronouns: He/him
 
