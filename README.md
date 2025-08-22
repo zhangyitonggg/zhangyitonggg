@@ -1,7 +1,7 @@
 ## Hi there，Guten Tag，你好！ 👋
 
 - 🔭 I’m currently researching **Programming Language Processing** and **Diffusion LLM**
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **RWKV**
 - 📫 How to reach me: 22373337@buaa.edu.cn
 - 😄 Pronouns: He/him
 
