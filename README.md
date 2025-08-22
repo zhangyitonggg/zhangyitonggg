@@ -1,6 +1,6 @@
 ## Hi there，Guten Tag，你好！ 👋
 
-- 🔭 I’m currently researching **AI Safety** and **AI4SE**
+- 🔭 I’m currently researching **Programming Language Processing** and **Diffusion LLM**
 - 🌱 I’m currently learning **machine learning**
 - 📫 How to reach me: 22373337@buaa.edu.cn
 - 😄 Pronouns: He/him
