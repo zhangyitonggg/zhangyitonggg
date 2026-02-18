@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently researching **Trustworthy Code Generation**, **SE4AI** and **AI4SE**
 - 🌱 I’m currently exploring **how to improve the reliability and correctness of LLM-generated text and code**
-- 📫 How to reach me: 22373337@buaa.edu.cn
+- 📫 How to reach me: zhangyt42@buaa.edu.cn
 - 😄 Pronouns: He/him
